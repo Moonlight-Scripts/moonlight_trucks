@@ -1,0 +1,11 @@
+{
+  "menu_title": "Available destinations",
+  "talk_to_ped": "Show offers",
+  "payout": "Payout: $%s",
+  "truckjob_blip_name": "Truck Company",
+  "mission_start": "Deliver the vehicle to the destination.",
+  "stop_job": "[E] - Deliver",
+  "stop_job_notify": "You delivered vehicle to the destination.",
+  "stop_job_notify_error": "You need to be inside the assigned truck to stop the mission.",
+  "instructions": "Receiving instructions"
+}

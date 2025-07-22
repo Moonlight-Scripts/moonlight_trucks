@@ -1,0 +1,10 @@
+{
+  "menu_title": "Dostupné destinace",
+  "talk_to_ped": "Zobrazit nabídky",
+  "payout": "Výplata: $%s",
+  "mission_start": "Dopravit vozidlo do místa určení.",
+  "stop_job": "[E] - Doručit",
+  "stop_job_notify": "Dopravili jste vozidlo na místo určení.",
+  "stop_job_notify_error": "Abyste mohli misi zastavit, musíte být uvnitř přiděleného kamionu..",
+  "instructions": "Přijímání pokynů"
+}
