@@ -87,7 +87,7 @@ Planned features, improvements, and tasks in the pipeline:
 - [ ] 🌐 Multi-language support (ES, FR, DE)    
 - [ ] 🔧 Webhook logging for job starts/completions   
 
-> 💬 Have a feature request? [Open an issue](https://github.com/Moonlight-Scripts/truck-job/issues/new) or start a Discussion!
+> 💬 Have a feature request? [Open an issue](https://github.com/Moonlight-Scripts/moonlight_trucks/issues) or start a Discussion!
 
 ---
 
@@ -95,7 +95,7 @@ Planned features, improvements, and tasks in the pipeline:
 
 Found a bug? Have a suggestion?
 
-- Open an [issue](https://github.com/Moonlight-Scripts/truck-job/issues)  
+- Open an [issue](https://github.com/Moonlight-Scripts/moonlight_trucks/issues)
 - Submit a pull request for improvements  
 - Reach out in Discussions to get help from the community  
 
